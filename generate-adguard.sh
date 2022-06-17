@@ -9,6 +9,6 @@ for list in $(find corporations -type f \
 
 	printf "![AdGuard Filter]\n" > ${adguard}
 	for ip in $(grep "0.0.0.0" ${list} | awk '{print $2}' | sort) ; do
-			printf "||${ip}\^\$important\n"
+			printf "||${ip}^\$important\n"
 	done >> ${adguard}
 done
