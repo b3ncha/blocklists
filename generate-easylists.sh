@@ -2,7 +2,7 @@
 # https://github.com/drduh/blocklists/blob/master/generate-easylists.sh
 
 for list in $(find corporations -type f \
-	! -name "README*" ! -name "*.easylist*" ! -name "*.ipv6") ; do
+	! -name "README*" ! -name "*.easylist*" ! -name "*.ipv6" ! -name "*.AdGuard") ; do
 
 	easylist="${list}.easylist" && printf "creating ${easylist}\n"
 

@@ -2,7 +2,7 @@
 # https://github.com/drduh/blocklists/blob/master/generate-ipv6.sh
 
 for list in $(find corporations -type f \
-	! -name "README*" ! -name "*.easylist*" ! -name "*.ipv6") ; do
+	! -name "README*" ! -name "*.easylist*" ! -name "*.ipv6" ! -name "*.AdGuard") ; do
 
 	ipv6="${list}.ipv6" && printf "creating ${ipv6}\n"
 
