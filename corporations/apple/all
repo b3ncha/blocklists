@@ -396,3 +396,6 @@
 0.0.0.0 xp.apple.com
 0.0.0.0 xp.itunes-apple.com.akadns.net
 0.0.0.0 xp2.apple.com
+0.0.0.0 iphone-ld.apple.com
+0.0.0.0 _dns.resolver.arpa
+0.0.0.0 gateway.fe2.apple.-dns.net
