@@ -1,5 +1,6 @@
 ![AdGuard Filter]
 ||19-courier.push.apple.com^$important
+||_dns.resolver.arpa^$important
 ||a1.phobos.apple.com^$important
 ||a101.phobos.apple.com^$important
 ||a102.phobos.apple.com^$important
@@ -152,6 +153,7 @@
 ||fmipmobile.fe.apple-dns.net^$important
 ||fmipmobile.icloud.com^$important
 ||gateway.fe.apple-dns.net^$important
+||gateway.fe2.apple.-dns.net^$important
 ||gateway.icloud.com^$important
 ||gc.apple.com^$important
 ||gdmf.apple.com^$important
@@ -208,6 +210,7 @@
 ||init.push.apple.com^$important
 ||investor.apple.com^$important
 ||ipcdn.apple.com^$important
+||iphone-ld.apple.com^$important
 ||iphone.apple.com^$important
 ||iprofiles.apple.com^$important
 ||is-ssl.mzstatic.com.itunes-apple.com.akadns.net^$important

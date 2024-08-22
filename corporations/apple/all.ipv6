@@ -1,4 +1,5 @@
 ::1 19-courier.push.apple.com
+::1 _dns.resolver.arpa
 ::1 a1.phobos.apple.com
 ::1 a101.phobos.apple.com
 ::1 a102.phobos.apple.com
@@ -151,6 +152,7 @@
 ::1 fmipmobile.fe.apple-dns.net
 ::1 fmipmobile.icloud.com
 ::1 gateway.fe.apple-dns.net
+::1 gateway.fe2.apple.-dns.net
 ::1 gateway.icloud.com
 ::1 gc.apple.com
 ::1 gdmf.apple.com
@@ -207,6 +209,7 @@
 ::1 init.push.apple.com
 ::1 investor.apple.com
 ::1 ipcdn.apple.com
+::1 iphone-ld.apple.com
 ::1 iphone.apple.com
 ::1 iprofiles.apple.com
 ::1 is-ssl.mzstatic.com.itunes-apple.com.akadns.net
