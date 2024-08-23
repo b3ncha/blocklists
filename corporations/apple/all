@@ -162,6 +162,7 @@
 0.0.0.0 gs.apple.com
 0.0.0.0 gsa.apple.com
 0.0.0.0 gsas.apple.com
+0.0.0.0 ls.apple.com
 0.0.0.0 gsp-ssl.ls.apple.com
 0.0.0.0 gsp10-ssl.apple.com
 0.0.0.0 gsp19-ssl.ls.apple.com
@@ -399,3 +400,12 @@
 0.0.0.0 iphone-ld.apple.com
 0.0.0.0 _dns.resolver.arpa
 0.0.0.0 gateway.fe2.apple.-dns.net
+0.0.0.0 gdmf.v.aaplimg.com
+0.0.0.0 get-bx.g.aaplimg.com
+0.0.0.0 time.g.aaplimg.com
+0.0.0.0 mesu.g.aaplimg.com
+0.0.0.0 aaplimg.com
+0.0.0.0 sps-media.v.aaplimg.com
+0.0.0.0 ocsp2.g.aaplimg.com
+0.0.0.0 hls-amt-ve.itunes.g.aaplimg.com
+0.0.0.0 

@@ -38,6 +38,9 @@
 ||a15.phobos.apple.com^
 ||a15.phobos.apple.com^$popup
 ||a15.phobos.apple.com^$third-party
+||aaplimg.com^
+||aaplimg.com^$popup
+||aaplimg.com^$third-party
 ||access.apple.com^
 ||access.apple.com^$popup
 ||access.apple.com^$third-party
@@ -473,9 +476,15 @@
 ||gdmf.apple.com^
 ||gdmf.apple.com^$popup
 ||gdmf.apple.com^$third-party
+||gdmf.v.aaplimg.com^
+||gdmf.v.aaplimg.com^$popup
+||gdmf.v.aaplimg.com^$third-party
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^$popup
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^$third-party
+||get-bx.g.aaplimg.com^
+||get-bx.g.aaplimg.com^$popup
+||get-bx.g.aaplimg.com^$third-party
 ||gg.apple.com^
 ||gg.apple.com^$popup
 ||gg.apple.com^$third-party
@@ -551,6 +560,9 @@
 ||help.apple.com^
 ||help.apple.com^$popup
 ||help.apple.com^$third-party
+||hls-amt-ve.itunes.g.aaplimg.com^
+||hls-amt-ve.itunes.g.aaplimg.com^$popup
+||hls-amt-ve.itunes.g.aaplimg.com^$third-party
 ||hrweb.apple.com^
 ||hrweb.apple.com^$popup
 ||hrweb.apple.com^$third-party
@@ -704,6 +716,9 @@
 ||locate.apple.com^
 ||locate.apple.com^$popup
 ||locate.apple.com^$third-party
+||ls.apple.com^
+||ls.apple.com^$popup
+||ls.apple.com^$third-party
 ||macos.apple.com^
 ||macos.apple.com^$popup
 ||macos.apple.com^$third-party
@@ -746,6 +761,9 @@
 ||mesu.apple.com^
 ||mesu.apple.com^$popup
 ||mesu.apple.com^$third-party
+||mesu.g.aaplimg.com^
+||mesu.g.aaplimg.com^$popup
+||mesu.g.aaplimg.com^$third-party
 ||mfi.apple.com^
 ||mfi.apple.com^$popup
 ||mfi.apple.com^$third-party
@@ -806,6 +824,9 @@
 ||ocsp2.apple.com^
 ||ocsp2.apple.com^$popup
 ||ocsp2.apple.com^$third-party
+||ocsp2.g.aaplimg.com^
+||ocsp2.g.aaplimg.com^$popup
+||ocsp2.g.aaplimg.com^$third-party
 ||ocsp2.g.aaplimg.com^
 ||ocsp2.g.aaplimg.com^$popup
 ||ocsp2.g.aaplimg.com^$third-party
@@ -995,6 +1016,9 @@
 ||source.apple.com^
 ||source.apple.com^$popup
 ||source.apple.com^$third-party
+||sps-media.v.aaplimg.com^
+||sps-media.v.aaplimg.com^$popup
+||sps-media.v.aaplimg.com^$third-party
 ||sq-device.apple.com^
 ||sq-device.apple.com^$popup
 ||sq-device.apple.com^$third-party
@@ -1094,6 +1118,9 @@
 ||time.apple.com^
 ||time.apple.com^$popup
 ||time.apple.com^$third-party
+||time.g.aaplimg.com^
+||time.g.aaplimg.com^$popup
+||time.g.aaplimg.com^$third-party
 ||time1.apple.com^
 ||time1.apple.com^$popup
 ||time1.apple.com^$third-party

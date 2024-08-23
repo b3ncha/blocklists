@@ -11,6 +11,7 @@
 ::1 a13.phobos.apple.com
 ::1 a14.phobos.apple.com
 ::1 a15.phobos.apple.com
+::1 aaplimg.com
 ::1 access.apple.com
 ::1 advertising.apple.com
 ::1 albert.apple.com
@@ -156,7 +157,9 @@
 ::1 gateway.icloud.com
 ::1 gc.apple.com
 ::1 gdmf.apple.com
+::1 gdmf.v.aaplimg.com
 ::1 geo-applefinance-cache.internal.query.g03.yahoodns.net
+::1 get-bx.g.aaplimg.com
 ::1 gg.apple.com
 ::1 gnf-mdn.apple.com
 ::1 gnf-mr.apple.com
@@ -182,6 +185,7 @@
 ::1 guzzoni-apple-com.v.aaplimg.com
 ::1 guzzoni.apple.com
 ::1 help.apple.com
+::1 hls-amt-ve.itunes.g.aaplimg.com
 ::1 hrweb.apple.com
 ::1 humb.apple.com
 ::1 iad.apple.com
@@ -233,6 +237,7 @@
 ::1 ld-1.itunes.apple.com
 ::1 lists.apple.com
 ::1 locate.apple.com
+::1 ls.apple.com
 ::1 macos.apple.com
 ::1 manuals.info.apple.com
 ::1 manuals01.info.apple.com
@@ -247,6 +252,7 @@
 ::1 mdmenrollment.apple.com
 ::1 meetingroom.apple.com
 ::1 mesu.apple.com
+::1 mesu.g.aaplimg.com
 ::1 mfi.apple.com
 ::1 mobile.apple.com
 ::1 mobileaccess.apple.com
@@ -267,6 +273,7 @@
 ::1 ocsp.apple.com
 ::1 ocsp2-lb.apple.com.akadns.net
 ::1 ocsp2.apple.com
+::1 ocsp2.g.aaplimg.com
 ::1 ocsp2.g.aaplimg.com
 ::1 opensource.apple.com
 ::1 oscdn.apple.com
@@ -330,6 +337,7 @@
 ::1 skl.apple.com
 ::1 smp-device-content.apple.com
 ::1 source.apple.com
+::1 sps-media.v.aaplimg.com
 ::1 sq-device.apple.com
 ::1 ssl.apple.com
 ::1 sso.apple.com
@@ -363,6 +371,7 @@
 ::1 time-ios.apple.com
 ::1 time-macos.apple.com
 ::1 time.apple.com
+::1 time.g.aaplimg.com
 ::1 time1.apple.com
 ::1 time2.apple.com
 ::1 time3.apple.com

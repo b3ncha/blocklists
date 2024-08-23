@@ -12,6 +12,7 @@
 ||a13.phobos.apple.com^$important
 ||a14.phobos.apple.com^$important
 ||a15.phobos.apple.com^$important
+||aaplimg.com^$important
 ||access.apple.com^$important
 ||advertising.apple.com^$important
 ||albert.apple.com^$important
@@ -157,7 +158,9 @@
 ||gateway.icloud.com^$important
 ||gc.apple.com^$important
 ||gdmf.apple.com^$important
+||gdmf.v.aaplimg.com^$important
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^$important
+||get-bx.g.aaplimg.com^$important
 ||gg.apple.com^$important
 ||gnf-mdn.apple.com^$important
 ||gnf-mr.apple.com^$important
@@ -183,6 +186,7 @@
 ||guzzoni-apple-com.v.aaplimg.com^$important
 ||guzzoni.apple.com^$important
 ||help.apple.com^$important
+||hls-amt-ve.itunes.g.aaplimg.com^$important
 ||hrweb.apple.com^$important
 ||humb.apple.com^$important
 ||iad.apple.com^$important
@@ -234,6 +238,7 @@
 ||ld-1.itunes.apple.com^$important
 ||lists.apple.com^$important
 ||locate.apple.com^$important
+||ls.apple.com^$important
 ||macos.apple.com^$important
 ||manuals.info.apple.com^$important
 ||manuals01.info.apple.com^$important
@@ -248,6 +253,7 @@
 ||mdmenrollment.apple.com^$important
 ||meetingroom.apple.com^$important
 ||mesu.apple.com^$important
+||mesu.g.aaplimg.com^$important
 ||mfi.apple.com^$important
 ||mobile.apple.com^$important
 ||mobileaccess.apple.com^$important
@@ -268,6 +274,7 @@
 ||ocsp.apple.com^$important
 ||ocsp2-lb.apple.com.akadns.net^$important
 ||ocsp2.apple.com^$important
+||ocsp2.g.aaplimg.com^$important
 ||ocsp2.g.aaplimg.com^$important
 ||opensource.apple.com^$important
 ||oscdn.apple.com^$important
@@ -331,6 +338,7 @@
 ||skl.apple.com^$important
 ||smp-device-content.apple.com^$important
 ||source.apple.com^$important
+||sps-media.v.aaplimg.com^$important
 ||sq-device.apple.com^$important
 ||ssl.apple.com^$important
 ||sso.apple.com^$important
@@ -364,6 +372,7 @@
 ||time-ios.apple.com^$important
 ||time-macos.apple.com^$important
 ||time.apple.com^$important
+||time.g.aaplimg.com^$important
 ||time1.apple.com^$important
 ||time2.apple.com^$important
 ||time3.apple.com^$important
