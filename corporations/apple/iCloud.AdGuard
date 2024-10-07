@@ -1,0 +1,21 @@
+![AdGuard Filter]
+||dedus.icloud-content.com^$important
+||edge-010.dedus1.icloud-content.com^$important
+||edge-018.jptyo-1.icloud-content.com^$important
+||fmfmobile.icloud.com^$important
+||fmipmobile.icloud.com^$important
+||gateway.icloud.com^$important
+||gateway.icloud.com^$important
+||hkhkg-edge-001.icloud-content.com^$important
+||icloud-content.com^$important
+||icloud.apple.com^$important
+||icloud.com^$important
+||icloud.com.cn^$important
+||mask-api.icloud.com^$important
+||mask-h2.icloud.com^$important
+||mask.icloud.com^$important
+||setup.icloud.com^$important
+||sgsin-edge-001.icloud-content.com^$important
+||ws-ee-maidsvc.icloud.com^$important
+||www-cdn.icloud.com.akadns.net^$important
+||www.icloud.com^$important
