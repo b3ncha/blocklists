@@ -1,0 +1,20 @@
+![AdGuard Filter]
+||apps.facebook.com^$important
+||connect.facebook.net^$important
+||facebook.com^$important
+||fbcdn.com^$important
+||fbcdn.net^$important
+||graph.facebook.com^$important
+||login.facebook.com^$important
+||s-static.ak.facebook.com^$important
+||static.ak.connect.facebook.com^$important
+||static.ak.fbcdn.net^$important
+||www.connect.facebook.net^$important
+||www.facebook.com^$important
+||www.fbcdn.com^$important
+||www.fbcdn.net^$important
+||www.graph.facebook.com^$important
+||www.login.facebook.com^$important
+||www.s-static.ak.facebook.com^$important
+||www.static.ak.connect.facebook.com^$important
+||www.static.ak.fbcdn.net^$important

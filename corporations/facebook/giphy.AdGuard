@@ -1,0 +1,19 @@
+![AdGuard Filter]
+||api.giphy.com^$important
+||giphy.com^$important
+||i.giphy.com^$important
+||labs.giphy.com^$important
+||media.giphy.com^$important
+||media0.giphy.com^$important
+||media1.giphy.com^$important
+||media2.giphy.com^$important
+||media3.giphy.com^$important
+||media4.giphy.com^$important
+||outlook.giphy.com^$important
+||p.giphy.com^$important
+||pingback.giphy.com^$important
+||stickers.giphy.com^$important
+||tv.giphy.com^$important
+||twitter.giphy.com^$important
+||upload.giphy.com^$important
+||www.giphy.com^$important

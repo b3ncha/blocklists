@@ -2204,6 +2204,9 @@
 ||outlook.com^
 ||outlook.com^$popup
 ||outlook.com^$third-party
+||outlook.live.com^
+||outlook.live.com^$popup
+||outlook.live.com^$third-party
 ||owa.microsoft.com^
 ||owa.microsoft.com^$popup
 ||owa.microsoft.com^$third-party

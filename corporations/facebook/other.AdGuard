@@ -1,0 +1,11 @@
+![AdGuard Filter]
+||connect.facebook.net^$important
+||connect.facebook.net.edgekey.net^$important
+||ct-m-fbx.fbsbx.com^$important
+||facebook-web-clients.appspot.com^$important
+||fb.me^$important
+||fbcdn-profile-a.akamaihd.net^$important
+||h-ct-m-fbx.fbsbx.com.online-metrix.net^$important
+||m.me^$important
+||messenger.com^$important
+||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^$important

@@ -2606,6 +2606,9 @@
 ||graph.facebook.com^
 ||graph.facebook.com^$popup
 ||graph.facebook.com^$third-party
+||graph.fbpigeon.com^
+||graph.fbpigeon.com^$popup
+||graph.fbpigeon.com^$third-party
 ||graph.instagram.com^
 ||graph.instagram.com^$popup
 ||graph.instagram.com^$third-party
